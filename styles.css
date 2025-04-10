@@ -1,0 +1,21 @@
+body {height: 100vh;
+margin: 0;
+overflow: hidden;
+display: flex;
+flex-direction: column;
+}
+
+.one {background-color: #1F2937;
+}
+
+.logo {font-size: 24px;
+color: #F9FAF8;}
+
+.header-one {color: #F9FAF8;
+display: flex;
+justify-content: space-between;
+}
+
+.right {display: flex;}
+
+li {list-style: none;}
