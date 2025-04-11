@@ -75,8 +75,19 @@ align-items: center;
 gap: 16px;}
 
 .gallery img {
-    height: auto;
+    height: 700px;
     width: 500px;
     object-fit: cover;
     aspect-ratio: auto;
 }
+
+.three {display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+height: 500px;
+background-color: #E5E7EB;}
+
+.text-three, .text-four {font-size: 36px;
+font-style: italic;
+color: #1F2937}
